@@ -1,0 +1,2 @@
+1.Twitter bot using nodejs. Download the project and use npm start in command line from inside directory.
+2.Enter the text(eg: sachin) in command line after npm start and you get the text related tweet.
