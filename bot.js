@@ -1,9 +1,9 @@
 var Twitter = require('twit');
 var T = new Twitter({
   consumer_key: 'k8OlA6gzTY2PUj4LXjeYvcGAQ',
-  consumer_secret: 'PHZJYcahOM9ocoUilCwvegopBtleMlGAVRtddAPBBSqjQaE3up',
-  access_token_key: '1513330148-knu1IINVn88Rt6csfeGce9MbQu0u2iwi4Ivk3OG',
-  access_token_secret: 'PTC9Qn27GdEq2GzrRPED0cpJjUjNG2KiVanqaIk0qv9ck',
+  consumer_secret: 'PHZJYcahOM9ocoUilCwdsfdsfvegopBtleMlGAVRtddAPBBSqjdsfdsQaE3up',
+  access_token_key: '1513330148-knu1IINVn88Rsdfdsfsdt6csfeGce9MbQu0dsfdsfu2iwi4Ivk3OG',
+  access_token_secret: 'PTC9Qn27GdEq2GzrRPED0cpJjUjNG2KiVanqaIk0qvsdfsdf9ck',
 app_only_auth:        true
 });
 var stdin = process.openStdin();
